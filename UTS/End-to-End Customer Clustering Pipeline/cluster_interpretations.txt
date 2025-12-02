@@ -1,0 +1,34 @@
+CLUSTER INTERPRETATION REPORT
+================================================================================
+
+CLUSTER 0: 📊 Standard Customer
+Business Value: Medium Value
+Risk Level: Low
+Recommendation: Regular engagement, monitor behavior changes
+
+Traits:
+  - 💰 Moderate spender: $824 average purchases
+  - 🔄 Revolving balance: Only 15% full payments
+  - 💵 Moderate cash advance: $817
+  - 📊 Moderate credit usage: 33.3% of $4,366 limit
+  - 📊 Moderate activity: 13 transactions
+  - ⚠️ Fair financial health: 0.45/1.00
+
+--------------------------------------------------------------------------------
+
+CLUSTER 1: 💵 Cash Advance Seeker
+Business Value: High Risk
+Risk Level: High
+Recommendation: Risk management needed, alternative product offerings, financial counseling
+
+Traits:
+  - 💰 Low spender: $0 average purchases (Bottom 25%)
+  - ⚖️ Mixed payment behavior: 50% full payments
+  - 💵 Heavy cash advance user: $2,777 (Top 25%)
+  -    └─ Cash ratio: 100.0% of total credit usage
+  - ✅ Healthy credit usage: 0.1% of $6,000 limit
+  - 📉 Low activity: 0 transactions
+  - ⚠️ Fair financial health: 0.50/1.00
+
+--------------------------------------------------------------------------------
+
